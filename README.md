@@ -38,11 +38,6 @@ Screenshots
 <img width="668" alt="image" src="https://github.com/user-attachments/assets/fdba98dc-beb2-49dd-9b52-f0440068508e" />
 
 
-
-Implement real-world transaction data integration.
-
-Enhance UI/UX with animations.
-
 License
 
 This project is licensed under the MIT License.
